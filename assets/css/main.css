@@ -214,7 +214,7 @@ input, select, textarea {
 		}
 
 	footer {
-		margin: 3em 0 0 0;
+		margin: 2em 0 0 0;
 	}
 
 		footer > p {
@@ -1989,8 +1989,8 @@ input, select, textarea {
 	.wrapper {
 		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-		padding: 8em 0 8em 0;
-		text-align: center;
+		padding: 2em 0 2em 0;
+		text-align: left;
 	}
 
 		.wrapper.style1 {
