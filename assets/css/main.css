@@ -201,7 +201,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 2em;
+		margin-bottom: 1.25em;
 	}
 
 	header {
@@ -2105,7 +2105,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 5em 0 2em 0;
+		padding: 4em 0 1.5em 0;
 		text-align: left;
 	}
 
@@ -2126,7 +2126,7 @@ input, select, textarea {
 
 		#top p {
 			font-size: 1.5em;
-			line-height: 1.5em; /* within paragraph */
+			line-height: 1.7em; /* within paragraph */
       margin-bottom: 1.25em; /* between paragraphs */
 		}
 
