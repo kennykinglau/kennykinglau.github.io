@@ -2126,7 +2126,7 @@ input, select, textarea {
 
 		#top p {
 			font-size: 1.5em;
-			line-height: 1.7em; /* within paragraph */
+			line-height: 1.75em; /* within paragraph */
       margin-bottom: 1.25em; /* between paragraphs */
 		}
 
